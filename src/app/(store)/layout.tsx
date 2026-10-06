@@ -3,6 +3,9 @@ import { SiteFooter } from "@/components/store/footer";
 import { CartDrawer } from "@/components/store/cart-drawer";
 import { getSettings } from "@/server/settings";
 
+// Every store page reads live settings/catalogue from the DB; never prerender at build time.
+export const dynamic = "force-dynamic";
+
 export default async function StoreLayout({ children }: LayoutProps<"/">) {
   const settings = await getSettings();
   return (

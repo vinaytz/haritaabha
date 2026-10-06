@@ -4,10 +4,8 @@ import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { POLICIES } from "@/lib/policies";
 import { getSettings } from "@/server/settings";
 
-export const dynamicParams = false;
-export function generateStaticParams() {
-  return Object.keys(POLICIES).map((page) => ({ page }));
-}
+// Rendered per request (support phone/email come from the DB), so the build never needs a database connection.
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: PageProps<"/[page]">): Promise<Metadata> {
   const { page } = await params;
