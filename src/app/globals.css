@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+/* Design tokens. Components use these names only, never raw hex. */
+@theme {
+  --color-leaf: #337418;
+  --color-leaf-deep: #255812;
+  --color-leaf-tint: #e3eedb;
+  --color-canopy: #15291a;
+  --color-canopy-soft: #1f3a25;
+  --color-aabha: #5dd62c;
+  --color-paper: #ffffff;
+  --color-mist: #eef2ea;
+  --color-mist-deep: #e2e9dc;
+  --color-ink: #1a2218;
+  --color-ink-soft: #5a6457;
+  --color-ink-faint: #8a9386;
+  --color-line: #dce2d6;
+  --color-line-strong: #c3ccbd;
+  --color-marigold: #f2a516;
+  --color-marigold-tint: #fdf1d8;
+  --color-danger: #b42318;
+  --color-danger-tint: #fdecea;
+  --color-info: #1d5f8a;
+  --color-info-tint: #e4f0f7;
+
+  --font-sans: var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-young-serif), ui-serif, Georgia, serif;
+
+  --radius-control: 6px;
+  --radius-surface: 12px;
+
+  --shadow-float: 0 12px 32px -12px rgb(21 41 26 / 0.22), 0 2px 6px rgb(21 41 26 / 0.06);
+
+  --container-page: 1320px;
+
+  --animate-drawer-in: drawer-in 260ms cubic-bezier(0.32, 0.72, 0, 1);
+  --animate-drawer-out: drawer-out 200ms ease-in;
+  --animate-drawer-left-in: drawer-left-in 260ms cubic-bezier(0.32, 0.72, 0, 1);
+  --animate-drawer-left-out: drawer-left-out 200ms ease-in;
+  --animate-fade-in: fade-in 200ms ease-out;
+  --animate-fade-out: fade-out 150ms ease-in;
+  --animate-pop-in: pop-in 160ms ease-out;
+  --animate-shimmer: shimmer 1.4s linear infinite;
+
+  @keyframes drawer-in { from { transform: translateX(100%); } to { transform: translateX(0); } }
+  @keyframes drawer-out { from { transform: translateX(0); } to { transform: translateX(100%); } }
+  @keyframes drawer-left-in { from { transform: translateX(-100%); } to { transform: translateX(0); } }
+  @keyframes drawer-left-out { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+  @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes fade-out { from { opacity: 1; } to { opacity: 0; } }
+  @keyframes pop-in { from { opacity: 0; transform: translateY(4px) scale(0.98); } to { opacity: 1; transform: none; } }
+  @keyframes shimmer { from { background-position: -200% 0; } to { background-position: 200% 0; } }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 8rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01", "tnum" 0;
+    text-rendering: optimizeLegibility;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-leaf);
+    outline-offset: 2px;
+  }
+  ::selection {
+    background: var(--color-leaf-tint);
+    color: var(--color-ink);
+  }
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+}
+
+/* Admin: no elastic overscroll (Firefox/Safari would flash the white page background under the panel). */
+html:has(.admin-shell),
+html:has(.admin-shell) body {
+  overscroll-behavior-y: none;
+  background: color-mix(in srgb, var(--color-mist) 50%, var(--color-paper));
+}
+
+@utility container-page {
+  width: 100%;
+  max-width: var(--container-page);
+  margin-inline: auto;
+  padding-inline: 1rem;
+  @media (width >= 48rem) {
+    padding-inline: 1.5rem;
+  }
+  @media (width >= 80rem) {
+    padding-inline: 2rem;
+  }
+}
+
+@utility font-numeric {
+  font-variant-numeric: tabular-nums;
+}
+
+@utility skeleton {
+  background: linear-gradient(90deg, var(--color-mist) 25%, var(--color-mist-deep) 50%, var(--color-mist) 75%);
+  background-size: 200% 100%;
+  animation: var(--animate-shimmer);
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Long-form policy / description text */
+@utility prose-plant {
+  color: var(--color-ink);
+  line-height: 1.7;
+  max-width: 68ch;
+  & p { margin-block: 0 1em; }
+  & h2 { font-family: var(--font-display); font-size: 1.5rem; line-height: 1.2; margin: 2em 0 0.6em; }
+  & h3 { font-weight: 600; font-size: 1.0625rem; margin: 1.6em 0 0.4em; }
+  & ul { list-style: disc; padding-left: 1.25em; margin-block: 0 1em; }
+  & li { margin-block: 0.3em; }
+  & a { color: var(--color-leaf); text-decoration: underline; text-underline-offset: 2px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,686 @@
+[
+ {
+  "file": "/demo/zz-plant-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Zamioculcas_zamiifolia_Chameleon_1.jpg",
+  "author": "Dbwolfe",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/zz-plant-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Zamioculcas_zamiifolia_kz03.jpg",
+  "author": "Krzysztof Ziarnek, Kenraiz",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/zz-plant-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Zz_plant.jpg",
+  "author": "Philsacor",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/peace-lily-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Spathiphyllum_-_Alipore_-_Kolkata_2013-02-10_4655.JPG",
+  "author": "Biswarup Ganguly",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/peace-lily-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Spathiphyllum_-_Alipore_-_Kolkata_2013-02-10_4654.JPG",
+  "author": "Biswarup Ganguly",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/rubber-plant-burgundy-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Gummibaum_(Ficus_elastica_Robusta).jpg",
+  "author": "Maja Dumat",
+  "license": "CC BY 2.0"
+ },
+ {
+  "file": "/demo/rubber-plant-burgundy-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_flower.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kuwanishbek&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kuwanishbek (page does not exist)\">Kuwanishbek</a>",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/rubber-plant-tineke-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Rosales_-_Ficus_elastica_2.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:DenesFeri\" title=\"User:DenesFeri\">DenesFeri</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/rubber-plant-tineke-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ficus_elastica_Doescheri03ra.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Satin66Flower&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Satin66Flower (page does not exist)\">Satin66Flower</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/fiddle-leaf-fig-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Fiddle_Leaf_Fig_in_pot.jpg",
+  "author": "No machine-readable author provided. Morrisjm assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/marble-queen-pothos-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Epipremnum_aureum_(Marble_Queen)_houseplant_(cropped).png",
+  "author": "Spnq",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/marble-queen-pothos-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Epipremnum_aureum_(Marble_Queen)_houseplant.png",
+  "author": "Spnq",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/golden-pothos-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Epipremnum_aureum_31082012.jpg",
+  "author": "<p><a href=\"//commons.wikimedia.org/wiki/User:Joydeep\" title=\"User:Joydeep\">Joydeep</a>\n</p>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/golden-pothos-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Money_plant_666.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Coolshaurya&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Coolshaurya (page does not exist)\">Coolshaurya</a>",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/aglaonema-lipstick-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Aglaonema_dalam_pot.jpg",
+  "author": "Sigit Jati",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/aglaonema-lipstick-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Aglaonema_nitidum_-_Alipore_-_Kolkata_2013-02-10_4649.JPG",
+  "author": "Biswarup Ganguly",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/satin-pothos-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Philodendron_Scandens_Pictus_-_Micka%C3%ABl_Schauli_-_3.jpg",
+  "author": "Micka\u00ebl Schauli",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/satin-pothos-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Philodendron_Scandens_Pictus_-_Micka%C3%ABl_Schauli_-_4.jpg",
+  "author": "Micka\u00ebl Schauli",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/satin-pothos-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Philodendron_Scandens_Pictus_-_Micka%C3%ABl_Schauli_-_1.jpg",
+  "author": "Micka\u00ebl Schauli",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/syngonium-white-butterfly-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Syngonium_podophyllum_(_Arrowhead_plant)_001.jpg",
+  "author": "Jeremyida002",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/monstera-deliciosa-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Modern_faux_plant_in_white_pot_on_a_kitchen_countertop,_enhancing_decor.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Bhullargraphic\" title=\"User:Bhullargraphic\">Bhullargraphic</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/monstera-deliciosa-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:HK_SW_Leaves_with_holes.JPG",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Princesleaf&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Princesleaf (page does not exist)\">Princesleaf</a>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/snake-plant-laurentii-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Hagsen_Delta_200_planter.jpg",
+  "author": "HAGSEN &amp; Domelo.pl",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/snake-plant-laurentii-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Sansevieria_(51334793198).jpg",
+  "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/193549753@N04\">Tom Knight</a>",
+  "license": "CC BY-SA 2.0"
+ },
+ {
+  "file": "/demo/snake-plant-moonshine-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Giant_False_Agave_(Furcraea_foetida_%27Striata%27).jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokkie&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokkie (page does not exist)\">Mokkie</a>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/snake-plant-moonshine-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Giant_False_Agave_(Furcraea_foetida_%27Striata%27)_4.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mokkie&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mokkie (page does not exist)\">Mokkie</a>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/areca-palm-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Dypsis_lutescens1.jpg",
+  "author": "KENPEI",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/areca-palm-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Dypsis_lutescens_(Family_Arecaceae)_-_leaves.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Juan_Carlos_Fonseca_Mata\" title=\"User:Juan Carlos Fonseca Mata\">Juan Carlos Fonseca Mata</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/calathea-orbifolia-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Houseplant_Calathea_orbifolia.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Supsoph&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Supsoph (page does not exist)\">Supsoph</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/calathea-freddie-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Calathea_picturata_argentea-1-JNTBGRI-palode-kerala-India.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Yercaud-elango\" title=\"User:Yercaud-elango\">Yercaud-elango</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/calathea-freddie-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Calathea_picturata_argentea-3-JNTBGRI-palode-kerala-India.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Yercaud-elango\" title=\"User:Yercaud-elango\">Yercaud-elango</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/prayer-plant-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Maranta_leuconeura_10zz.jpg",
+  "author": "Photo by David J. Stang",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/prayer-plant-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Maranta_leuconeura_%27Marisela%27.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:KATHERINE_WAGNER-REISS\" title=\"User:KATHERINE WAGNER-REISS\">KATHERINE WAGNER-REISS</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/hibiscus-red-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Hibiscus_Rosa-Sinensis_from_side_in_pot.jpg",
+  "author": "Riquix",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/mogra-jasmine-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Jasminum_sambac_in_China.jpg",
+  "author": "Dinkun Chen",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/mogra-jasmine-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Jasminum_sambac_Flower.jpg",
+  "author": "PapiPijuan",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/mogra-jasmine-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Jasminum_sambac_in_China_(2).jpg",
+  "author": "Dinkun Chen",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/bougainvillea-magenta-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bougainvillea_in_a_pot.JPG",
+  "author": "BKP",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/bougainvillea-magenta-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bougainvillea_glabra_at_Kadavoor.jpg",
+  "author": "Jeevan Jose, Kerala, India",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/bougainvillea-red-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Decorated_Bougainvillea_Pot_(30744363945).jpg",
+  "author": "Michael Coghlan from Adelaide, Australia",
+  "license": "CC BY-SA 2.0"
+ },
+ {
+  "file": "/demo/bougainvillea-red-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Starr_060928-0425_Bougainvillea_sp..jpg",
+  "author": "Forest &amp; Kim Starr",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/adenium-desert-rose-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Adenium_in_terracotta_pot.jpg",
+  "author": "Zenyrgarden",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/adenium-desert-rose-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Adenium_Plant.jpg",
+  "author": "AuliRaha",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/rose-red-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Red_rose_plant_with_pot.jpg",
+  "author": "Jothisettu",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/rose-red-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Rose_Plant_on_my_roof.jpg",
+  "author": "Bapinghosh",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/marigold-orange-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:French_Marigold_--_October_Birthday_Flower_--_Tagetes_patula.jpg",
+  "author": "Jim Evans",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/marigold-orange-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tagetes_erecta_26122014_(3).jpg",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/marigold-french-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tagetes_erecta_Marigold_flower_at_Madhurawada_01.JPG",
+  "author": "Adityamadhav83",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/marigold-french-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:French_marigold_Tagetes_patula.jpg",
+  "author": "Muhammad Mahdi Karim",
+  "license": "GFDL 1.2"
+ },
+ {
+  "file": "/demo/anthurium-red-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Starr-120522-5917-Anthurium_andraeanum-in_pot-Iao_Tropical_Gardens_of_Maui-Maui_(25049606761).jpg",
+  "author": "Forest and Kim Starr",
+  "license": "CC BY 3.0 us"
+ },
+ {
+  "file": "/demo/anthurium-red-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Anthurium_in_Kerala_6.jpg",
+  "author": "Ganesh Mohan T",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/ixora-pink-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ixora_coccinea_01.JPG",
+  "author": "Prenn",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/ixora-pink-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ixora_coccinea_(Rubiaceae).jpg",
+  "author": "Wilfredor",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/ixora-orange-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ixora_coccinea_03557.JPG",
+  "author": "Vengolis",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/ixora-orange-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ixora_coccinea_03549.JPG",
+  "author": "Vengolis",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/periwinkle-sadabahar-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Catharanthus_roseus24_08_2012_(2).JPG",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/periwinkle-sadabahar-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_white,_West_Bengal,_India_20120903.jpg",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/periwinkle-sadabahar-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Catopsilia_pyranthe_male,_Burdwan,_West_Bengal,_India_14_09_2012.jpg",
+  "author": "Joydeep",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/jade-plant-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_%2B_Florero.jpg",
+  "author": "Arch. Attilio Mileto - attilio.mileto@florero.net",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/jade-plant-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Crassula_ovata_a_Roma_17.jpg",
+  "author": "Camelia.boban",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/aloe-vera-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Aloe_vera_pot.jpg",
+  "author": "Serah04",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/aloe-vera-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Aloe_Vera_in_a_metal_Pot.jpg",
+  "author": "Slyronit",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/echeveria-elegans-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Echeveria_on_white_background.jpg",
+  "author": "Anne Jea.",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/echeveria-elegans-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Echeveria_pulidonis_on_a_pot.jpg",
+  "author": "Kaartic",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/echeveria-elegans-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Echeveria_%27Lola%27_(Tangopaso)_D2506.jpg",
+  "author": "Tangopaso",
+  "license": "Public domain"
+ },
+ {
+  "file": "/demo/haworthia-zebra-1.webp",
+  "source": "https://commons.wikimedia.org (search: Haworthia pot)",
+  "author": "See source",
+  "license": "CC BY-SA / public domain (Wikimedia Commons)"
+ },
+ {
+  "file": "/demo/haworthia-zebra-2.webp",
+  "source": "https://commons.wikimedia.org (search: Haworthia pot)",
+  "author": "See source",
+  "license": "CC BY-SA / public domain (Wikimedia Commons)"
+ },
+ {
+  "file": "/demo/golden-barrel-cactus-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Cactus_on_the_Pots_by_Sankar.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sankar_1995&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sankar 1995 (page does not exist)\">Sankar 1995</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/golden-barrel-cactus-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:An_Echinocactus_grusonii.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Cl%C3%A9ment_Bardot\" title=\"User:Cl\u00e9ment Bardot\">Cl\u00e9ment Bardot</a>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/golden-barrel-cactus-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Asiento_de_suegra_(Echinocactus_grusonii),_Jard%C3%ADn_Bot%C3%A1nico,_M%C3%BAnich,_Alemania,_2013-09-08,_DD_03.JPG",
+  "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/bunny-ear-cactus-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Opuntia_microdasys_var_angelwings.jpg",
+  "author": "See source",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/bunny-ear-cactus-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Cactus_%22Opuntia_microdasys%22.jpg",
+  "author": "Juan Emilio Prades Bel",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/cactus-trio-bowl-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Cactus-plant-pot-stand-1599155636.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ukman12345&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ukman12345 (page does not exist)\">Ukman12345</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/succulent-bowl-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Succulent_Neighbors.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:TylaLyn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:TylaLyn (page does not exist)\">TylaLyn</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/succulent-bowl-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_brewbooks_-_Succulent_Pot.jpg",
+  "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93452909@N00\">brewbooks</a> from near Seattle, USA",
+  "license": "CC BY-SA 2.0"
+ },
+ {
+  "file": "/demo/string-of-pearls-1.webp",
+  "source": "https://commons.wikimedia.org (search: Senecio rowleyanus)",
+  "author": "See source",
+  "license": "CC BY-SA / public domain (Wikimedia Commons)"
+ },
+ {
+  "file": "/demo/string-of-pearls-2.webp",
+  "source": "https://commons.wikimedia.org (search: Senecio rowleyanus)",
+  "author": "See source",
+  "license": "CC BY-SA / public domain (Wikimedia Commons)"
+ },
+ {
+  "file": "/demo/tulsi-holy-basil-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Holy_Basil(Rama,Krishna;Ocimum_tenuiflorum).jpg",
+  "author": "Diamante Phi",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/tulsi-holy-basil-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocimum_tenuiflorum_24_08_2012.JPG",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:JDP90\" class=\"mw-redirect\" title=\"User:JDP90\">Joydeep</a>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/tulsi-holy-basil-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ocimum_tenuiflorum_5725.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Vengolis\" title=\"User:Vengolis\">Vengolis</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/mint-pudina-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Mint_plants.jpg",
+  "author": "NahidHossain",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/mint-pudina-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Pied_de_menthe_D2209.jpg",
+  "author": "Tangopaso",
+  "license": "Public domain"
+ },
+ {
+  "file": "/demo/curry-leaf-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Murraya_koenigii.jpg",
+  "author": "SarKaLay \u1005\u102c\u1000\u101c\u1031\u1038",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/curry-leaf-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:20260317_Murraya_koenigii_01.jpg",
+  "author": "Flocci Nivis",
+  "license": "CC BY 4.0"
+ },
+ {
+  "file": "/demo/curry-leaf-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:20260317_Murraya_koenigii_02.jpg",
+  "author": "Flocci Nivis",
+  "license": "CC BY 4.0"
+ },
+ {
+  "file": "/demo/lemongrass-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Cymbopogon_citratus_4zz.jpg",
+  "author": "Photo by David J. Stang",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/lemongrass-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:YosriNov04Pokok_Serai.JPG",
+  "author": "See source",
+  "license": "CC BY 2.0"
+ },
+ {
+  "file": "/demo/ornamental-chilli-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Chilli_plant_in_a_pot_20.jpg",
+  "author": "Netha Hussain",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/lemon-plant-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Brampton_ON_Lemon-Meyer_2021-12-06.jpg",
+  "author": "Milan Suvajac",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/lemon-plant-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Brampton_ON_Lemon-Meyer_2018-02-02.jpg",
+  "author": "Milan Suvajac",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/lemon-plant-3.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:American_lemon.jpg",
+  "author": "Bryantdmo",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/spider-plant-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Chlorophytum_comosum_in_a_pot.jpg",
+  "author": "Nithyashree Balasupramaniyan",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/spider-plant-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Spider_Plant_(Chlorophytum_Comosum).jpg",
+  "author": "S.samsamyang",
+  "license": "CC BY 4.0"
+ },
+ {
+  "file": "/demo/english-ivy-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:HederaHelix_wreath_undecorated.jpg",
+  "author": "Vitavia",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/english-ivy-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Small_lappet_moth_on_ivy_1.jpg",
+  "author": "W.carter",
+  "license": "CC0"
+ },
+ {
+  "file": "/demo/tradescantia-zebrina-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tradescantia_zebrina_silver_glitter.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Umfassender&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Umfassender (page does not exist)\">Umfassender</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/tradescantia-zebrina-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Tradescantia_Zebrina_flower.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Anak_kampuang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Anak kampuang (page does not exist)\">Anak kampuang</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/string-of-hearts-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ceropegia_woodii_IB.jpg",
+  "author": "photographed by Ivan I. Boldyrev",
+  "license": "CC BY-SA 2.5"
+ },
+ {
+  "file": "/demo/string-of-hearts-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Ceropegia_woodii_Ceropegia_Wooda_2024-04-26_01.jpg",
+  "author": "Agnieszka Kwiecie\u0144, Nova",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/ficus-ginseng-bonsai-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Bonsai_Adam_and_Eve_(PPL2-Enhanced)_julesvernex2.jpg",
+  "author": "Jules Verne Times Two",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/ficus-ginseng-bonsai-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:BBG_-_Ficus_benjamina_-_Forrest.jpg",
+  "author": "PierreSelim",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/ficus-bonsai-forest-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:BBG_-_Ficus_deltoidea_-_Literati.jpg",
+  "author": "PierreSelim",
+  "license": "CC BY 3.0"
+ },
+ {
+  "file": "/demo/jade-bonsai-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_2.jpg",
+  "author": "Claire H. from New York City, USA",
+  "license": "CC BY-SA 2.0"
+ },
+ {
+  "file": "/demo/jade-bonsai-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Portulacaria_afra_(bonsai)_D220524.jpg",
+  "author": "Tangopaso",
+  "license": "Public domain"
+ },
+ {
+  "file": "/demo/juniper-bonsai-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Naka%27s_Goshin,_October_10,_2008.jpg",
+  "author": "Sage Ross",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/juniper-bonsai-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Goshin,_30_April_2012.JPG",
+  "author": "Sage Ross",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/croton-petra-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Croton_(Codiaeum_variegatum),_jard%C3%ADn_bot%C3%A1nico_de_Tallinn,_Estonia,_2012-08-13,_DD_01.JPG",
+  "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/croton-petra-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Codiaeum_variegatum_31032014.jpg",
+  "author": "<p><a href=\"//commons.wikimedia.org/wiki/User:JDP90\" class=\"mw-redirect\" title=\"User:JDP90\">Joydeep</a>\n</p>",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "/demo/terracotta-pot-set-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_terracotta_pots_-_geograph.org.uk_-_4950281.jpg",
+  "author": "Jonathan Billinger",
+  "license": "CC BY-SA 2.0"
+ },
+ {
+  "file": "/demo/terracotta-pot-set-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Terracotta_Pot.jpg",
+  "author": "\u09aa\u09be\u09aa\u09f0\u09bf \u09ac\u09f0\u09be",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/hand-painted-ceramic-pot-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Pot,_flower_(AM_1987.531-2).jpg",
+  "author": "<div class=\"fn value\">\nPartridge Pottery</div>",
+  "license": "CC BY 4.0"
+ },
+ {
+  "file": "/demo/hand-painted-ceramic-pot-2.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Pot,_flower_(AM_1987.531-6).jpg",
+  "author": "<div class=\"fn value\">\nPartridge Pottery</div>",
+  "license": "CC BY 4.0"
+ },
+ {
+  "file": "/demo/warli-art-planter-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Flaming_Katy_in_a_Ceramic_Pot_2.jpg",
+  "author": "<a href=\"//commons.wikimedia.org/wiki/User:Slyronit\" title=\"User:Slyronit\">Slyronit</a>",
+  "license": "CC BY-SA 4.0"
+ },
+ {
+  "file": "/demo/glazed-ceramic-pots-1.webp",
+  "source": "https://commons.wikimedia.org/wiki/File:Copped_Hall_kitchen_walled_garden,_plant_pot_stack,_Essex,_England.jpg",
+  "author": "Acabashi",
+  "license": "CC BY-SA 4.0"
+ }
+]
